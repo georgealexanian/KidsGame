@@ -21,19 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de11fa25-8ca2-4e39-aa67-e9c112da4023" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers.atlas.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers.atlas.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers_Atlas.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers_Atlas.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers_Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers_Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers_SkeletonData.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Pig/Pig brown layers_SkeletonData.asset.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622195257380</updated>
-      <workItem from="1622195260311" duration="1109000" />
+      <workItem from="1622195260311" duration="2278000" />
     </task>
     <servers />
   </component>
@@ -117,5 +104,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1622204008322">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1622204008322" />
   </component>
 </project>
