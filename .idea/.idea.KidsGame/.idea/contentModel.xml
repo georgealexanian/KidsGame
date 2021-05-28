@@ -56,9 +56,6 @@
             <e p="Mouse" t="Include">
               <e p="Mouse merged layers.atlas.txt" t="Include" />
             </e>
-            <e p="Pig" t="Include">
-              <e p="Pig brown layers.atlas.txt" t="Include" />
-            </e>
           </e>
         </e>
         <e p="DOTween" t="Include">
