@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de11fa25-8ca2-4e39-aa67-e9c112da4023" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +42,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowBack.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/InputSystem/PlayerInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/Editor/TabToggleEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/XXXXXX.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622195257380</updated>
-      <workItem from="1622195260311" duration="218000" />
+      <workItem from="1622195260311" duration="372000" />
     </task>
     <servers />
   </component>
