@@ -70,7 +70,8 @@ SpriteAtlas:
     - {fileID: 2800000, guid: f3f2de2c100ad471d85e1c01949377d6, type: 3}
     - {fileID: 2800000, guid: b92a9d395d96a49dd9ef6bc08ba88c3a, type: 3}
     - {fileID: 2800000, guid: 0b0e430dc34814863bbcf54700c47d36, type: 3}
-    totalSpriteSurfaceArea: 648042
+    - {fileID: 2800000, guid: 8abe3a381710644d0833626ac45065e4, type: 3}
+    totalSpriteSurfaceArea: 682346
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -82,6 +83,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 87ed62f31c2ba4e699409eac13d2da53, type: 3}
   - {fileID: 21300000, guid: 4cb38744aacc3411da854f75aee8cb80, type: 3}
   - {fileID: 21300000, guid: f3f335a6003594089bade7328ed3db66, type: 3}
+  - {fileID: 21300000, guid: 8abe3a381710644d0833626ac45065e4, type: 3}
   - {fileID: 21300000, guid: 1dfc7b383d1e7454897466a4ad16198d, type: 3}
   - {fileID: 21300000, guid: 25c62ac8b7a014f4e916fdd8dc29e0df, type: 3}
   - {fileID: 21300000, guid: b92a9d395d96a49dd9ef6bc08ba88c3a, type: 3}
@@ -98,6 +100,7 @@ SpriteAtlas:
   - grass bg
   - flower 3
   - cloud 1
+  - halfCircle
   - sky bg 1
   - bush 3
   - tree bg
