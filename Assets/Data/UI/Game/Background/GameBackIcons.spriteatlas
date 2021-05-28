@@ -23,7 +23,7 @@ SpriteAtlas:
     platformSettings:
     - serializedVersion: 3
       m_BuildTarget: iPhone
-      m_MaxTextureSize: 1024
+      m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
       m_TextureFormat: 51
       m_TextureCompression: 1
@@ -35,7 +35,7 @@ SpriteAtlas:
       m_ForceMaximumCompressionQuality_BC6H_BC7: 0
     - serializedVersion: 3
       m_BuildTarget: Android
-      m_MaxTextureSize: 1024
+      m_MaxTextureSize: 2048
       m_ResizeAlgorithm: 0
       m_TextureFormat: 51
       m_TextureCompression: 1
@@ -71,7 +71,7 @@ SpriteAtlas:
     - {fileID: 2800000, guid: b92a9d395d96a49dd9ef6bc08ba88c3a, type: 3}
     - {fileID: 2800000, guid: 0b0e430dc34814863bbcf54700c47d36, type: 3}
     - {fileID: 2800000, guid: 8abe3a381710644d0833626ac45065e4, type: 3}
-    totalSpriteSurfaceArea: 682346
+    totalSpriteSurfaceArea: 3010922
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}

@@ -198,6 +198,9 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Game" t="Include">
+            <e p="GameEntry.cs" t="Include" />
+          </e>
           <e p="GameCore" t="Include">
             <e p="AI" t="Include">
               <e p="BehaviourTree" t="Include">
