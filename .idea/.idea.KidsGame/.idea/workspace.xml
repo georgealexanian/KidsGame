@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de11fa25-8ca2-4e39-aa67-e9c112da4023" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/MainBundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/MainBundle.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/GameBackIcons.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/GameBackIcons.spriteatlas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/grass bg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/grass bg.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/sky bg 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/sky bg 1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622195257380</updated>
-      <workItem from="1622195260311" duration="3039000" />
+      <workItem from="1622195260311" duration="3041000" />
     </task>
     <servers />
   </component>
