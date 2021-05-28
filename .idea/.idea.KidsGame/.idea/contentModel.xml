@@ -39,6 +39,28 @@
           </e>
           <e p="version.txt" t="Include" />
         </e>
+        <e p="Data" t="Include">
+          <e p="Animations" t="Include">
+            <e p="Cat" t="Include">
+              <e p="skeleton.atlas.txt" t="Include" />
+            </e>
+            <e p="Cow" t="Include">
+              <e p="skeleton.atlas.txt" t="Include" />
+            </e>
+            <e p="Dog" t="Include">
+              <e p="Dog merged layers.atlas.txt" t="Include" />
+            </e>
+            <e p="Horse" t="Include">
+              <e p="skeleton.atlas.txt" t="Include" />
+            </e>
+            <e p="Mouse" t="Include">
+              <e p="Mouse merged layers.atlas.txt" t="Include" />
+            </e>
+            <e p="Pig" t="Include">
+              <e p="Pig brown layers.atlas.txt" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="DOTween" t="Include">
           <e p="Modules" t="Include">
             <e p="DOTweenModuleAudio.cs" t="Include" />
