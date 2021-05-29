@@ -69,7 +69,9 @@ MonoBehaviour:
     m_ProfileVersion: 1
   m_LabelTable:
     m_LabelNames:
-    - default
+    - GameScene
+    - LoadingScene
+    - MenuScene
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: d1c980858c9ba4f38b0cd8353e2de547, type: 2}

@@ -199,7 +199,13 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="Game" t="Include">
+            <e p="AnimalChoose" t="Include">
+              <e p="AnimalManager.cs" t="Include" />
+            </e>
             <e p="GameEntry.cs" t="Include" />
+            <e p="MenuScene" t="Include">
+              <e p="MenuSceneManager.cs" t="Include" />
+            </e>
           </e>
           <e p="GameCore" t="Include">
             <e p="AI" t="Include">
@@ -303,6 +309,7 @@
               <e p="UIGradient.cs" t="Include" />
               <e p="UILayoutKeeper.cs" t="Include" />
               <e p="WindowSystem" t="Include">
+                <e p="GameUIWindow.cs" t="Include" />
                 <e p="IWindowManager.cs" t="Include" />
                 <e p="IWindowSequence.cs" t="Include" />
                 <e p="IWindowsHolder.cs" t="Include" />
@@ -317,6 +324,14 @@
               </e>
             </e>
             <e p="ValueOfRange.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Windows" t="Include">
+              <e p="AnimalChoose" t="Include">
+                <e p="AnimalCell.cs" t="Include" />
+                <e p="AnimalChooseWindow.cs" t="Include" />
+              </e>
+            </e>
           </e>
         </e>
         <e p="Spine" t="Include">
@@ -621,7 +636,7 @@
       <e p="spine-unity.csproj" t="IncludeRecursive" />
       <e p="Temp/Bin" t="ExcludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_KidsGame.-1554202943.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_KidsGame.-189869260.00" t="ExcludeRecursive" />
   </component>
 </project>

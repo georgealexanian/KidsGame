@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TailIcons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 51
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e1e231b90c32b4f92bb38ca809340448, type: 3}
+    - {fileID: 2800000, guid: 4c8dad2bd70f24d379545fec49c4cb38, type: 3}
+    - {fileID: 2800000, guid: 853de10ec61a34b04a70d8698e541468, type: 3}
+    - {fileID: 2800000, guid: 648ca5e2da5604952b3bbca4834e51cf, type: 3}
+    - {fileID: 2800000, guid: f97e2ae3b61d248cda1752bb496448e5, type: 3}
+    - {fileID: 2800000, guid: a4eea8fea01f446d398a3b654d2970b8, type: 3}
+    totalSpriteSurfaceArea: 258176
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 648ca5e2da5604952b3bbca4834e51cf, type: 3}
+  - {fileID: 21300000, guid: f97e2ae3b61d248cda1752bb496448e5, type: 3}
+  - {fileID: 21300000, guid: e1e231b90c32b4f92bb38ca809340448, type: 3}
+  - {fileID: 21300000, guid: 4c8dad2bd70f24d379545fec49c4cb38, type: 3}
+  - {fileID: 21300000, guid: 853de10ec61a34b04a70d8698e541468, type: 3}
+  - {fileID: 21300000, guid: a4eea8fea01f446d398a3b654d2970b8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dogTail
+  - horseTail
+  - pigTail
+  - catTail
+  - cowTail
+  - mouseTail
+  m_RenderDataMap: {}
+  m_Tag: TailIcons
+  m_IsVariant: 0

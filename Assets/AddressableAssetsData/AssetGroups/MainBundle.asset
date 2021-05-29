@@ -20,7 +20,8 @@ MonoBehaviour:
   - m_GUID: 2cda990e2423bbf4892e6590ba056729
     m_Address: Assets/Scenes/MainScene.unity
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - MenuScene
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 5915249acc48043e599b6ac7e1b47e2c
@@ -44,13 +45,15 @@ MonoBehaviour:
   - m_GUID: a36fd86030a3f4adfa24e0d477eac869
     m_Address: Assets/Scenes/LoadingScene.unity
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - LoadingScene
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: 6a923e1b13d5d4c5883ec72ad76fccc8
     m_Address: Assets/Scenes/GameScene.unity
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - GameScene
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0

@@ -9,9 +9,6 @@ namespace GameCore.UI.WindowSystem
         public event Action OnBackClickEvent;
         public event Action OnCloseClickEvent;
 
-        public TextMeshProUGUI tittleLbl;
-
-      
 
         public void OnBackClick()
         {

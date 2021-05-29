@@ -11,11 +11,9 @@ namespace GameCore.UI.WindowSystem
         [SerializeField] protected WindowBack back;
         public string windowKey;
         protected IWindowManager WManager;
-        [SerializeField] private AudioClip openClip;
-        [SerializeField] private AudioClip closeClip;
         private bool _windowInitEnd;
-#pragma warning restore
         protected event Action OnCloseWindow;
+#pragma warning restore
 
         public virtual void Awake()
         {

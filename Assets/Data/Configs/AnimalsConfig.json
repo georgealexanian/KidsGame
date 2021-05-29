@@ -1,0 +1,68 @@
+{
+  "tailAtlasPath": "Assets/Data/UI/Menu/Animals/Tails/TailIcons.spriteatlas",
+  "portraitAtlasPath": "Assets/Data/UI/Menu/Animals/AnimalIcons.spriteatlas",
+  "correctAction": 
+  [
+    "MOTHER_CA_01",
+    "MOTHER_CA_02",
+    "MOTHER_CA_03",
+    "MOTHER_CA_04",
+    "MOTHER_CA_05",
+    "MOTHER_CA_06",
+    "MOTHER_CA_07"
+  ],
+  "inCorrectAction":
+  [
+    "MOTHER_IA_01",
+    "MOTHER_IA_02",
+    "MOTHER_IA_03",
+    "MOTHER_IA_04",
+    "MOTHER_IA_05",
+    "MOTHER_IA_06",
+    "MOTHER_IA_07"
+  ],
+  "animals": 
+  [
+    {
+      "name": "Cat",
+      "failAnim": "",
+      "successAnim": "",
+      "tail": "",
+      "defaultSkin": "",
+      "tailedSkin": "",
+      "startPhrase": ""
+    },
+    {
+      "name": "Cow",
+      "failAnim": "",
+      "successAnim": "",
+      "tail": "",
+      "defaultSkin": "",
+      "tailedSkin": ""
+    },
+    {
+      "name": "Dog",
+      "failAnim": "",
+      "successAnim": "",
+      "tail": "",
+      "defaultSkin": "",
+      "tailedSkin": ""
+    },
+    {
+      "name": "Horse",
+      "failAnim": "",
+      "successAnim": "",
+      "tail": "",
+      "defaultSkin": "",
+      "tailedSkin": ""
+    },
+    {
+      "name": "Mouse",
+      "failAnim": "",
+      "successAnim": "",
+      "tail": "",
+      "defaultSkin": "",
+      "tailedSkin": ""
+    }
+  ]
+}
