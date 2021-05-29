@@ -33,13 +33,15 @@ MonoBehaviour:
   - m_GUID: 9634f7d0667f44585ac71483d4c04407
     m_Address: Assets/Data/UI/Menu/Animals/Tails/TailIcons.spriteatlas
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - TailIcons
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: b9209c5a51a1244698c4e16003a1084a
     m_Address: Assets/Data/UI/Menu/Animals/AnimalIcons.spriteatlas
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - AnimalIcons
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   - m_GUID: a36fd86030a3f4adfa24e0d477eac869
@@ -54,6 +56,34 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - GameScene
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7707fe3242bff4fc0a3a9144afad359b
+    m_Address: Assets/Data/Configs/AnimalsConfig.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnimalConfig
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: becf0ce845e314e318e34ccc3d4f20d8
+    m_Address: Assets/Data/Prefabs/Animals/UI/Windows/AnimalChoose/AnimalCell.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnimalCell
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f738d10593ac541fdab1ae17d509f223
+    m_Address: Assets/Data/Prefabs/Animals/UI/Windows/AnimalChoose/AnimalChooseWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - AnimalChooseWindow
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f4a110b79dd924422a96bc2b7305774d
+    m_Address: Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/TailChooseWindow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TailChooseWindow
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0

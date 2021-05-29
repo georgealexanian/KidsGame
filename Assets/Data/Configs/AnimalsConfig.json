@@ -1,6 +1,6 @@
 {
-  "tailAtlasPath": "Assets/Data/UI/Menu/Animals/Tails/TailIcons.spriteatlas",
-  "portraitAtlasPath": "Assets/Data/UI/Menu/Animals/AnimalIcons.spriteatlas",
+  "tailAtlasLabel": "TailIcons",
+  "portraitAtlasLabel": "AnimalIcons",
   "correctAction": 
   [
     "MOTHER_CA_01",
@@ -25,44 +25,118 @@
   [
     {
       "name": "Cat",
-      "failAnim": "",
-      "successAnim": "",
-      "tail": "",
-      "defaultSkin": "",
-      "tailedSkin": "",
-      "startPhrase": ""
+      "tail": "catTail",
+      "uiPrefabPath": "Assets/Data/Prefabs/Animals/Animals/Cat.prefab",
+      "anims":
+      {
+        "no": "No",
+        "sad": "Sad",
+        "happy": "Dance",
+        "tap": "Tap_Idle",
+        "idle": "Idle",
+        "talk": "Idle_Talk"
+      },
+      "skins":
+      {
+        "plain": "default",
+        "tailed": "default"
+      },
+      "phrases": 
+      {
+        "start": "CAT_09"
+      }
     },
     {
       "name": "Cow",
-      "failAnim": "",
-      "successAnim": "",
-      "tail": "",
-      "defaultSkin": "",
-      "tailedSkin": ""
+      "tail": "cowTail",
+      "uiPrefabPath": "Assets/Data/Prefabs/Animals/Animals/Cow.prefab",
+      "anims":
+      {
+        "no": "No",
+        "sad": "Sad",
+        "happy": "Dance",
+        "tap": "Tap",
+        "idle": "Idle",
+        "talk": "Idle_Talk"
+      },
+      "skins":
+      {
+        "plain": "default",
+        "tailed": "default"
+      },
+      "phrases":
+      {
+        "start": "COW_09"
+      }
     },
     {
       "name": "Dog",
-      "failAnim": "",
-      "successAnim": "",
-      "tail": "",
-      "defaultSkin": "",
-      "tailedSkin": ""
+      "tail": "dogTail",
+      "uiPrefabPath": "Assets/Data/Prefabs/Animals/Animals/Dog.prefab",
+      "anims":
+      {
+        "no": "No",
+        "sad": "Sad",
+        "happy": "Dance",
+        "tap": "Tap",
+        "idle": "Idle",
+        "talk": "Talk"
+      },
+      "skins":
+      {
+        "plain": "default",
+        "tailed": "default"
+      },
+      "phrases":
+      {
+        "start": "DOG_09"
+      }
     },
     {
       "name": "Horse",
-      "failAnim": "",
-      "successAnim": "",
-      "tail": "",
-      "defaultSkin": "",
-      "tailedSkin": ""
+      "tail": "horseTail",
+      "uiPrefabPath": "Assets/Data/Prefabs/Animals/Animals/Horse.prefab",
+      "anims":
+      {
+        "no": "No",
+        "sad": "Sad",
+        "happy": "Dance",
+        "tap": "Tap",
+        "idle": "Idle",
+        "talk": "Talk"
+      },
+      "skins":
+      {
+        "plain": "default",
+        "tailed": "default"
+      },
+      "phrases":
+      {
+        "start": "HORSE_09"
+      }
     },
     {
       "name": "Mouse",
-      "failAnim": "",
-      "successAnim": "",
-      "tail": "",
-      "defaultSkin": "",
-      "tailedSkin": ""
+      "tail": "mouseTail",
+      "uiPrefabPath": "Assets/Data/Prefabs/Animals/Animals/Mouse.prefab",
+      "anims":
+      {
+        "no": "Idle_say_no",
+        "sad": "sad",
+        "happy": "Dance",
+        "tap": "Tap",
+        "idle": "Idle",
+        "talk": "Idle_talk"
+      },
+      "skins":
+      {
+        "plain": "default",
+        "tailed": "default"
+      },
+      "phrases":
+      {
+        "start": "MOUSE_09"
+      }
     }
   ]
 }

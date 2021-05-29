@@ -103,6 +103,8 @@ GameObject:
   - component: {fileID: 2242628773042844912}
   - component: {fileID: 6893552429724084578}
   - component: {fileID: 573382142006512176}
+  - component: {fileID: 6319377070277007809}
+  - component: {fileID: 290641773781313044}
   m_Layer: 0
   m_Name: AnimalCell
   m_TagString: Untagged
@@ -181,6 +183,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   image: {fileID: 7345135289509856101}
+  canvasGroup: {fileID: 290641773781313044}
+  cellAppearTime: 0.5
 --- !u!114 &573382142006512176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -237,6 +241,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &6319377070277007809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3467726519703754665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 911f494910e5241b28460f4151665b59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stick: 0
+--- !u!225 &290641773781313044
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3467726519703754665}
+  m_Enabled: 1
+  m_Alpha: 0
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &6767274983683643038
 GameObject:
   m_ObjectHideFlags: 0

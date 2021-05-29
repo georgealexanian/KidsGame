@@ -23,412 +23,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de11fa25-8ca2-4e39-aa67-e9c112da4023" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Configs/AnimalsConfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Configs/AnimalsConfig.json.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Cat.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Cat.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Cow.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Cow.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Dog.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Dog.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Horse.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Horse.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Mouse.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Mouse.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/GameBackIcons.spriteatlas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/GameBackIcons.spriteatlas.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/btn home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/btn home.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/bush 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/bush 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/bush 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/bush 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/bush 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/bush 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/cloud 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/cloud 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/cloud 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/cloud 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/fence.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/fence.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/flower 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/flower 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/flower 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/flower 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/flower 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/flower 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/grass bg 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/grass bg 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/grass bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/grass bg.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/halfCircle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/halfCircle.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/sky bg 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/sky bg 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/sun.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/tree bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/tree bg.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/AnimalChoose.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/AnimalChoose/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/AnimalChoose/circle.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/AnimalIcons.spriteatlas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/AnimalIcons.spriteatlas.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Cat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Cat.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Cow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Cow.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Dog.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Horse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Horse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Mouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Mouse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Pig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Pig.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/TailIcons.spriteatlas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/TailIcons.spriteatlas.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/catTail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/catTail.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/cowTail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/cowTail.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/dogTail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/dogTail.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/horseTail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/horseTail.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/mouseTail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/mouseTail.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/pigTail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/Animals/Tails/pigTail.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/menu bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Menu/menu bg.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/CAT_09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/CAT_09.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_09.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_22.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_22.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_25.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_25.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_26.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/COW_26.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/DOG_09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/DOG_09.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_09.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_21.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_21.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_23.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_23.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_26.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/HORSE_26.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/KID_03.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/KID_03.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/KID_04.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/KID_04.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/KID_05.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/KID_05.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/MOUSE_09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/MOUSE_09.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_01.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_06.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_06.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_07.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_07.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_10.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_10.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_11.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_11.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_12.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_12.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_13.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_13.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_14.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_14.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_15.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_15.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_16.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_16.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_17.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_17.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_18.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_18.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_19.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_19.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_20.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/Mother_20.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_02.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_08.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_08.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_09.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_24.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_24.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_26.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/2YO_T1_C2_PIG/PIG_26.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_01.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_02.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_03.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_03.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_04.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_04.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_05.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_05.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_06.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_06.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_07.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_07.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_01.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_02.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_03.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_03.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_04.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_04.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_05.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_05.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_06.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_06.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_07.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Resources/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_07.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/AnimalsBundle.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/AnimalsBundle.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Schemas/AnimalsBundle_BundledAssetGroupSchema.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Schemas/AnimalsBundle_BundledAssetGroupSchema.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Schemas/AnimalsBundle_ContentUpdateGroupSchema.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Schemas/AnimalsBundle_ContentUpdateGroupSchema.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/TailChooseWindow.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/TailChooseWindow.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/GameSceneManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/GameSceneManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/MenuSceneManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/MenuSceneManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/SceneLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/SceneLoader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/SceneManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Game/SceneManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/BigIntegerExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/BigIntegerExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/EditorGUIExtension.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/EditorGUIExtension.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/ExpressionParser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/ExpressionParser.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/Extentions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/Extentions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/ListExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/ListExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/LocalizationEditorGUIExtension.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/LocalizationEditorGUIExtension.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/LongExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/LongExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/StringExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/StringExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/TypeExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/TypeExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/VectorExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/VectorExtensions.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/BubbleButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/BubbleButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailChooseWindow.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailChooseWindow.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/MainBundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/MainBundle.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/CAT_09.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/CAT_09.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_09.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_09.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_22.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_22.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_25.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_25.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_26.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/COW_26.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/DOG_09.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/DOG_09.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_09.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_09.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_21.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_21.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_23.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_23.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_26.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/HORSE_26.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/KID_03.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/KID_03.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/KID_04.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/KID_04.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/KID_05.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/KID_05.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/MOUSE_09.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/MOUSE_09.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_01.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_01.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_06.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_06.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_07.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_07.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_10.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_10.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_11.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_11.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_12.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_12.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_13.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_13.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_14.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_14.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_15.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_15.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_16.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_16.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_17.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_17.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_18.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_18.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_19.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_19.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_20.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/Mother_20.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_02.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_02.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_08.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_08.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_09.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_09.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_24.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_24.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_26.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/2YO_T1_C2_PIG/PIG_26.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_01.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_01.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_02.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_02.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_03.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_03.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_04.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_04.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_05.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_05.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_06.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_06.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_07.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_07.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_01.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_01.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_02.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_02.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_03.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_03.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_04.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_04.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_05.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_05.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_06.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_06.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_07.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_07.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_01.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_01.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_02.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_02.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_03.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_03.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_04.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_04.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_05.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_05.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_06.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_06.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_07.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Audio/MOTHER_CA/MOTHER_CA_07.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Cat.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Cat.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Cow.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Cow.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Dog.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Dog.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Horse.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Horse.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Mouse.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Mouse.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/GameBackIcons.spriteatlas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/GameBackIcons.spriteatlas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/btn home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/btn home.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/bush 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/bush 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/bush 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/bush 2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/bush 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/bush 3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/cloud 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/cloud 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/cloud 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/cloud 2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/fence.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/fence.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/flower 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/flower 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/flower 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/flower 2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/flower 3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/flower 3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/grass bg 2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/grass bg 2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/grass bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/grass bg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/halfCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/halfCircle.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/sky bg 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/sky bg 1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/sun.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/sun.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/tree bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Game/Background/tree bg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/AnimalIcons.spriteatlas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/AnimalIcons.spriteatlas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Cat.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Cow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Cow.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Dog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Dog.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Horse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Horse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Mouse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Mouse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Pig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Pig.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/TailIcons.spriteatlas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/TailIcons.spriteatlas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/cat tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/cat tail.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/cow tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/cow tail.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/dog tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/dog tail.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/horse tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/horse tail.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/mouse tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/mouse tail.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/pig tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/Animals/Tails/pig tail.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/circle.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/menu bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UI/Menu/menu bg.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/I2/Localization/I2Localization_PlayMaker.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/I2/Localization/I2Localization_Tests.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Animations/Horse/skeleton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Animations/Horse/skeleton.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Configs/AnimalsConfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Configs/AnimalsConfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Cat.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/Animals/Cat.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/AnimalChoose/AnimalCell.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/AnimalChoose/AnimalCell.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/AnimalChoose/AnimalChooseWindow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/AnimalChoose/AnimalChooseWindow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/UIWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/UIWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowBack.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowBack.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/GameEntry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/GameEntry.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -458,22 +116,36 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.16.19/Editor/Build/AddressableAssetSettingsLocator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameEntry.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuSceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/AnimalChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/AnimalChoose/AnimalChooseWindow.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowBack.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/UIWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/TypeExtensions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/SceneLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/BubbleButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameEntry.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" />
       <option value="$PROJECT_DIR$/Assets/Data/Configs/AnimalsConfig.json" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/SceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MainSceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/SceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuSceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/TailChooseWindow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailChooseWindow.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameSceneManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1t9xlUlKY8KFab8tEV9mvw8uG7z" />
@@ -487,6 +159,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3499658" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -498,6 +172,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -510,10 +185,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="94422">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="94422" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -529,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622195257380</updated>
       <workItem from="1622195260311" duration="3041000" />
-      <workItem from="1622227541869" duration="3034000" />
+      <workItem from="1622227541869" duration="16043000" />
     </task>
     <servers />
   </component>

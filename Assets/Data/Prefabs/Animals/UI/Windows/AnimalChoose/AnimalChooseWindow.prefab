@@ -125,8 +125,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 906.1751}
+  m_AnchoredPosition: {x: -0.000042439, y: -1.5717}
+  m_SizeDelta: {x: 1848.9192, y: 1035.0552}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1673522279
 CanvasRenderer:
@@ -218,9 +218,9 @@ MonoBehaviour:
   m_Padding:
     m_Left: 7
     m_Right: 0
-    m_Top: 7
+    m_Top: 80
     m_Bottom: 0
-  m_ChildAlignment: 0
+  m_ChildAlignment: 1
   m_StartCorner: 0
   m_StartAxis: 0
   m_CellSize: {x: 400, y: 400}
@@ -352,19 +352,7 @@ MonoBehaviour:
   - eventID: 4
     callback:
       m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 5001980702668343407}
-          m_TargetAssemblyTypeName: GameCore.UI.WindowSystem.WindowBack, Assembly-CSharp
-          m_MethodName: OnBackClick
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
+        m_Calls: []
 --- !u!114 &1853185279323222031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -456,3 +444,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   back: {fileID: 5001980702668343407}
   windowKey: AnimalChooseWindow
+  contentTr: {fileID: 1966659831}
+  animalCellDelay: 200

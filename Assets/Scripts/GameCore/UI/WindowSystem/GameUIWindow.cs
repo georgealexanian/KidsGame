@@ -22,6 +22,5 @@ namespace GameCore.UI.WindowSystem
         public override void OnWindowFocus()
         {
         }
-
     }
 }

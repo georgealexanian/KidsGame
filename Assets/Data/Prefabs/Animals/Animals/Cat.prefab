@@ -66,7 +66,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   skeletonDataAsset: {fileID: 11400000, guid: 240716748f34e4720a7db53d6c9f68e4, type: 2}
-  initialSkinName: default
+  initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
   startingAnimation: 

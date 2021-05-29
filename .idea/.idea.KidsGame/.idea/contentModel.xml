@@ -200,12 +200,14 @@
         <e p="Scripts" t="Include">
           <e p="Game" t="Include">
             <e p="AnimalChoose" t="Include">
+              <e p="AnimalConfig.cs" t="Include" />
               <e p="AnimalManager.cs" t="Include" />
             </e>
             <e p="GameEntry.cs" t="Include" />
-            <e p="MenuScene" t="Include">
-              <e p="MenuSceneManager.cs" t="Include" />
-            </e>
+            <e p="GameSceneManager.cs" t="Include" />
+            <e p="MenuSceneManager.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="SceneManager.cs" t="Include" />
           </e>
           <e p="GameCore" t="Include">
             <e p="AI" t="Include">
@@ -253,6 +255,18 @@
               <e p="GlobalParams.cs" t="Include" />
             </e>
             <e p="DataStorage.cs" t="Include" />
+            <e p="Extensions" t="Include">
+              <e p="BigIntegerExtensions.cs" t="Include" />
+              <e p="EditorGUIExtension.cs" t="Include" />
+              <e p="ExpressionParser.cs" t="Include" />
+              <e p="Extentions.cs" t="Include" />
+              <e p="ListExtensions.cs" t="Include" />
+              <e p="LocalizationEditorGUIExtension.cs" t="Include" />
+              <e p="LongExtensions.cs" t="Include" />
+              <e p="StringExtensions.cs" t="Include" />
+              <e p="TypeExtensions.cs" t="Include" />
+              <e p="VectorExtensions.cs" t="Include" />
+            </e>
             <e p="GameManagerReference.cs" t="Include" />
             <e p="GameObjectLink.cs" t="Include" />
             <e p="GetManagerFilter.cs" t="Include" />
@@ -284,6 +298,7 @@
               <e p="SignalSystem.cs" t="Include" />
             </e>
             <e p="UI" t="Include">
+              <e p="BubbleButton.cs" t="Include" />
               <e p="CanvasBehaviour.cs" t="Include" />
               <e p="CanvasScaleController.cs" t="Include" />
               <e p="DontDestroyOnLoad.cs" t="Include" />
@@ -330,6 +345,9 @@
               <e p="AnimalChoose" t="Include">
                 <e p="AnimalCell.cs" t="Include" />
                 <e p="AnimalChooseWindow.cs" t="Include" />
+              </e>
+              <e p="TailChooseWindow" t="Include">
+                <e p="TailChooseWindow.cs" t="Include" />
               </e>
             </e>
           </e>
