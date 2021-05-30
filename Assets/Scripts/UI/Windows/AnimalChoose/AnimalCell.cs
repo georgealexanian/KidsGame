@@ -29,6 +29,7 @@ namespace UI.Windows.AnimalChoose
         
         private void AnimateAnimalCells()
         {
+            canvasGroup.blocksRaycasts = false;
             transform.DOScale(0, 0);
             canvasGroup.DOFade(0, 0);
             
@@ -36,7 +37,10 @@ namespace UI.Windows.AnimalChoose
             seq.Join(canvasGroup.DOFade(1, cellAppearTime));
             seq.Append(transform.DOScale(1.2f, cellAppearTime).OnComplete(() =>
             {
-                transform.DOScale(1f, cellAppearTime);
+                transform.DOScale(1f, cellAppearTime).OnComplete(() =>
+                {
+                    canvasGroup.blocksRaycasts = true;
+                });
             }));
             seq.OnComplete(() =>
             {

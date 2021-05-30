@@ -41,7 +41,7 @@ namespace GameCore
         public static void AddManager(IGameManager manager)
         {
             var type = manager.GetType();
-            Debug.Log($"<color=red>[ManagersHolder] Add new manager of type : {type} !</color>");
+            Debug.Log($"<color=green>[ManagersHolder] Add new manager of type : {type} !</color>");
             AddManagerInternal(manager, type);
         }
         public static void AddManager<T>(IGameManager manager) where T:IGameManager

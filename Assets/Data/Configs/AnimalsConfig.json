@@ -3,23 +3,23 @@
   "portraitAtlasLabel": "AnimalIcons",
   "correctAction": 
   [
-    "MOTHER_CA_01",
-    "MOTHER_CA_02",
-    "MOTHER_CA_03",
-    "MOTHER_CA_04",
-    "MOTHER_CA_05",
-    "MOTHER_CA_06",
-    "MOTHER_CA_07"
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_01",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_02",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_03",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_04",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_05",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_06",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_CA/MOTHER_CA_07"
   ],
   "inCorrectAction":
   [
-    "MOTHER_IA_01",
-    "MOTHER_IA_02",
-    "MOTHER_IA_03",
-    "MOTHER_IA_04",
-    "MOTHER_IA_05",
-    "MOTHER_IA_06",
-    "MOTHER_IA_07"
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_01",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_02",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_03",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_04",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_05",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_06",
+    "Audio/MOTHER CORRECT-INCORRECT/MOTHER_IA/MOTHER_IA_07"
   ],
   "animals": 
   [
@@ -43,7 +43,7 @@
       },
       "phrases": 
       {
-        "start": "CAT_09"
+        "start": "Audio/2YO_T1_C2_PIG/CAT_09"
       }
     },
     {
@@ -66,7 +66,7 @@
       },
       "phrases":
       {
-        "start": "COW_09"
+        "start": "Audio/2YO_T1_C2_PIG/COW_09"
       }
     },
     {
@@ -89,7 +89,7 @@
       },
       "phrases":
       {
-        "start": "DOG_09"
+        "start": "Audio/2YO_T1_C2_PIG/DOG_09"
       }
     },
     {
@@ -112,7 +112,7 @@
       },
       "phrases":
       {
-        "start": "HORSE_09"
+        "start": "Audio/2YO_T1_C2_PIG/HORSE_09"
       }
     },
     {
@@ -135,7 +135,7 @@
       },
       "phrases":
       {
-        "start": "MOUSE_09"
+        "start": "Audio/2YO_T1_C2_PIG/MOUSE_09"
       }
     }
   ]

@@ -201,7 +201,13 @@
           <e p="Game" t="Include">
             <e p="AnimalChoose" t="Include">
               <e p="AnimalConfig.cs" t="Include" />
+              <e p="AnimalController" t="Include">
+                <e p="AnimalController.cs" t="Include" />
+              </e>
               <e p="AnimalManager.cs" t="Include" />
+            </e>
+            <e p="Audio" t="Include">
+              <e p="AudioManager.cs" t="Include" />
             </e>
             <e p="GameEntry.cs" t="Include" />
             <e p="GameSceneManager.cs" t="Include" />
@@ -347,6 +353,7 @@
                 <e p="AnimalChooseWindow.cs" t="Include" />
               </e>
               <e p="TailChooseWindow" t="Include">
+                <e p="TailCell.cs" t="Include" />
                 <e p="TailChooseWindow.cs" t="Include" />
               </e>
             </e>

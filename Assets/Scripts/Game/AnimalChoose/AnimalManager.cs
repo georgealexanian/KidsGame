@@ -34,6 +34,24 @@ namespace Game.AnimalChoose
         }
 
 
+        public List<string> GetRandomAnswerPaths(bool correctAnswers)
+        {
+            if (animalConfig == null)
+            {
+                return null;
+            }
+            
+            if (correctAnswers)
+            {
+                return animalConfig.correctAction;
+            }
+            else
+            {
+                return animalConfig.inCorrectAction;
+            }
+        }
+
+
         public string GetAnimalIconsAtlasLabel()
         {
             return animalConfig?.portraitAtlasLabel;
@@ -54,6 +72,17 @@ namespace Game.AnimalChoose
             }
             var names = animalConfig.animals.Select(x => x.name).ToList();
             return names;
+        }
+
+
+        public List<string> GetTailNames()
+        {
+            if (animalConfig?.animals == null || animalConfig.animals.Count == 0)
+            {
+                return null;
+            }
+            var tailNames = animalConfig.animals.Select(x => x.tail).ToList();
+            return tailNames;
         }
 
 

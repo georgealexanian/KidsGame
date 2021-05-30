@@ -79,6 +79,7 @@ MonoBehaviour:
     - AnimalIcons
     - TailIcons
     - TailChooseWindow
+    - TailCell
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: d1c980858c9ba4f38b0cd8353e2de547, type: 2}
