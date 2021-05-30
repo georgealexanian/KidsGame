@@ -1,11 +1,14 @@
 using System;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace Game.AnimalChoose
 {
     [Serializable]
     public class AnimalConfig
     {
+        [JsonIgnore] public const int FirstInactivityAwait = 7;
+        [JsonIgnore] public const int SecondInactivityAwait = 14;
         public string tailAtlasLabel;
         public string portraitAtlasLabel;
         public List<string> correctAction;

@@ -1,4 +1,4 @@
-using UI.Windows.TailChooseWindow;
+using UI.Windows.TailChoose;
 
 namespace Game
 {

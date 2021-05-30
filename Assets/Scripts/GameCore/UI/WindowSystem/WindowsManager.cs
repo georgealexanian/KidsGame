@@ -13,7 +13,7 @@ namespace GameCore.UI.WindowSystem
     public class WindowsManager : MonoBehaviour, IWindowManager
     {
 #pragma warning disable 0649
-        [SerializeField] private Transform windowRoot;
+        public Transform windowRoot;
         [SerializeField] private GameObject uiBlockerGo;
         [SerializeField] private GameObject uiInvisibleBlockerGo;
         [SerializeField] private string keyComingSoon = "comingSoonWindow";
@@ -44,10 +44,10 @@ namespace GameCore.UI.WindowSystem
             set
             {
                 Debug.Log($"InvisibleBlockUIInput uiInvisibleBlockerGo {(bool)uiInvisibleBlockerGo}  uiInvisibleBlockerGo.activeSelf {uiInvisibleBlockerGo.activeSelf}  value {value}");
-                // if (uiInvisibleBlockerGo && uiInvisibleBlockerGo.activeSelf != value )
-                // {
-                //     
-                // }
+                if (uiInvisibleBlockerGo && uiInvisibleBlockerGo.activeSelf != value)
+                {
+                    uiInvisibleBlockerGo.SetActive(value);
+                }
             }
         }
 

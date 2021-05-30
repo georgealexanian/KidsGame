@@ -352,7 +352,8 @@
                 <e p="AnimalCell.cs" t="Include" />
                 <e p="AnimalChooseWindow.cs" t="Include" />
               </e>
-              <e p="TailChooseWindow" t="Include">
+              <e p="TailChoose" t="Include">
+                <e p="HandPointer.cs" t="Include" />
                 <e p="TailCell.cs" t="Include" />
                 <e p="TailChooseWindow.cs" t="Include" />
               </e>

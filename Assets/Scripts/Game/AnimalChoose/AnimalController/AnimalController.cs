@@ -7,7 +7,7 @@ using GameCore.SignalSystem;
 using GameCore.UI.WindowSystem;
 using Spine;
 using Spine.Unity;
-using UI.Windows.TailChooseWindow;
+using UI.Windows.TailChoose;
 using UnityEngine;
 
 namespace Game.AnimalChoose.AnimalController
@@ -20,6 +20,7 @@ namespace Game.AnimalChoose.AnimalController
         [SerializeField] private string animalName;
         private GameManagerReference<AnimalManager> _animalManager;
         private GameManagerReference<AudioManager> _audioManager;
+        private GameManagerReference<WindowsManager> _winManager;
         private Animal _animalInfo;
         private int _wrongAnswerCounter;
         private const int SadnessThreshold = 2;
@@ -129,7 +130,7 @@ namespace Game.AnimalChoose.AnimalController
             Debug.Log($"<color=yellow>{nameof(IncorrectAction)}</color>");
 
             new ChosenCorrectAnswerSignal{isCorrect = false, tailName = tailName}.Fire();
-            if (_lastAnswer == tailName && _wrongAnswerCounter > SadnessThreshold)
+            if (_lastAnswer == tailName && _wrongAnswerCounter >= SadnessThreshold)
             {
                 Debug.Log($"<color=red>THE SAME WRONG ANSWER HAS BEEN CHOSEN MORE THAN {SadnessThreshold} times</color>");
                 SetUpAnim(true, _animalInfo.anims.sad, true);
@@ -160,8 +161,22 @@ namespace Game.AnimalChoose.AnimalController
             SetUpSkin(new List<string>(){_animalInfo.skins.tailed});
             _audioManager.Value.PlayRandomClip(_animalManager.Value.GetRandomAnswerPaths(true));
 
+            _winManager.Value.InvisibleBlockUIInput = true;
             await Task.Delay(MenuSwitchAwaitTime);
+            _winManager.Value.InvisibleBlockUIInput = false;
             new StartSceneSignal(Scenes.MenuScene.ToString()).Fire();
+        }
+
+
+        private void OnLongAwaitActionSignal(LongAwaitActionSignal signal)
+        {
+            switch (signal.inactivityTime)
+            {
+                case AnimalConfig.FirstInactivityAwait:
+                    StartTalking();
+                    new PulsateSignal().Fire();
+                    break;
+            }
         }
 
 
@@ -174,11 +189,14 @@ namespace Game.AnimalChoose.AnimalController
         private void OnEnable()
         {
             Signal.Subscribe<TailChosenSignal>(OnTailChosenSignal);
+            Signal.Subscribe<LongAwaitActionSignal>(OnLongAwaitActionSignal);
         }
         private void OnDisable()
         {
             Signal.Unsubscribe<TailChosenSignal>(OnTailChosenSignal);
+            Signal.Unsubscribe<LongAwaitActionSignal>(OnLongAwaitActionSignal);
         }
+        
     }
 
 

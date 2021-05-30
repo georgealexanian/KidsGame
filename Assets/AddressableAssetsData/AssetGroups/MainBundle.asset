@@ -93,6 +93,13 @@ MonoBehaviour:
     - TailCell
     m_MainAsset: {fileID: 0}
     m_TargetAsset: {fileID: 0}
+  - m_GUID: e9211ae7ae8234505b0657a8920c1743
+    m_Address: Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/HandPointer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HandPointer
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 60b1be47e91924ff0934f982c5055e02, type: 2}
   m_SchemaSet:

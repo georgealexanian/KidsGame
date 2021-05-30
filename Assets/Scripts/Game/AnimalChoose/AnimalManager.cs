@@ -13,7 +13,7 @@ namespace Game.AnimalChoose
     public class AnimalManager : IGameManager
     {
         private const string AnimalConfigLabel = "AnimalConfig";
-        private AnimalConfig animalConfig;
+        public AnimalConfig AnimalConfig { get; private set; }
         public string ChosenAnimal { get; private set; }
 
 
@@ -30,58 +30,58 @@ namespace Game.AnimalChoose
         public async Task Init()
         {
             var animalsConfigText = await Addressables.LoadAssetAsync<TextAsset>(AnimalConfigLabel).Task;
-            animalConfig = animalsConfigText.text.FromJson<AnimalConfig>();
+            AnimalConfig = animalsConfigText.text.FromJson<AnimalConfig>();
         }
 
 
         public List<string> GetRandomAnswerPaths(bool correctAnswers)
         {
-            if (animalConfig == null)
+            if (AnimalConfig == null)
             {
                 return null;
             }
             
             if (correctAnswers)
             {
-                return animalConfig.correctAction;
+                return AnimalConfig.correctAction;
             }
             else
             {
-                return animalConfig.inCorrectAction;
+                return AnimalConfig.inCorrectAction;
             }
         }
 
 
         public string GetAnimalIconsAtlasLabel()
         {
-            return animalConfig?.portraitAtlasLabel;
+            return AnimalConfig?.portraitAtlasLabel;
         }
 
 
         public string GetTailAtlasLabel()
         {
-            return animalConfig?.tailAtlasLabel;
+            return AnimalConfig?.tailAtlasLabel;
         }
 
         
         public List<string> GetAnimalsNames()
         {
-            if (animalConfig?.animals == null || animalConfig.animals.Count == 0)
+            if (AnimalConfig?.animals == null || AnimalConfig.animals.Count == 0)
             {
                 return null;
             }
-            var names = animalConfig.animals.Select(x => x.name).ToList();
+            var names = AnimalConfig.animals.Select(x => x.name).ToList();
             return names;
         }
 
 
         public List<string> GetTailNames()
         {
-            if (animalConfig?.animals == null || animalConfig.animals.Count == 0)
+            if (AnimalConfig?.animals == null || AnimalConfig.animals.Count == 0)
             {
                 return null;
             }
-            var tailNames = animalConfig.animals.Select(x => x.tail).ToList();
+            var tailNames = AnimalConfig.animals.Select(x => x.tail).ToList();
             return tailNames;
         }
 
@@ -92,17 +92,17 @@ namespace Game.AnimalChoose
             {
                 return null;
             }
-            return animalConfig.animals.Find(x => x.name == animalName);
+            return AnimalConfig.animals.Find(x => x.name == animalName);
         }
 
 
         private bool ExistsSuchAnimal(string animalName)
         {
-            if (animalConfig?.animals == null || animalConfig.animals.Count == 0)
+            if (AnimalConfig?.animals == null || AnimalConfig.animals.Count == 0)
             {
                 return false;
             }
-            return animalConfig.animals.Exists(x => x.name == animalName);
+            return AnimalConfig.animals.Exists(x => x.name == animalName);
         }
 
 

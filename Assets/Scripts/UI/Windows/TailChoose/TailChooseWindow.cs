@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,7 +15,8 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.U2D;
 using UnityEngine.UI;
 
-namespace UI.Windows.TailChooseWindow
+
+namespace UI.Windows.TailChoose
 {
     public class TailChooseWindow : GameUIWindow
     {
@@ -28,6 +30,7 @@ namespace UI.Windows.TailChooseWindow
         private readonly List<GameObject> _cachedAddressables = new List<GameObject>();
         public event AnimalController.Talk TalkEvent;
         private AnimalController _animalController;
+        private Coroutine _coroutine;
         #pragma warning restore
         
          
@@ -46,11 +49,29 @@ namespace UI.Windows.TailChooseWindow
                 await SetUpAnimalPrefab();
                 
                 homeBtn.interactable = true;
+                
+                _coroutine = StartCoroutine(LongAwaitChecker((AnimalConfig.FirstInactivityAwait)));
             }
             else
             {
                 Debug.Log($"<color=red>ERROR!!! Either animal info or tail name list or tail atlas is empty!!!</color>");
             }
+        }
+
+
+        private IEnumerator LongAwaitChecker(int awaitTime)
+        {
+            yield return new WaitForSeconds(awaitTime);
+            new LongAwaitActionSignal{inactivityTime = awaitTime}.Fire();
+            yield return new WaitForSeconds(awaitTime);
+            new LongAwaitActionSignal{inactivityTime = awaitTime * 2}.Fire();
+        }
+
+
+        private void OnTailChosenSignal()
+        {
+            StopCoroutine(_coroutine);
+            _coroutine = StartCoroutine(LongAwaitChecker((AnimalConfig.FirstInactivityAwait)));
         }
 
 
@@ -86,7 +107,7 @@ namespace UI.Windows.TailChooseWindow
                         break;
                     }
                     var instGo = await Addressables.InstantiateAsync(TailCell.PrefabKey, tailPanels[i].content).Task;
-                    instGo.GetComponent<TailCell>().Init(tailsAtlas.GetSprite(tailNames[j]), tailNames[j]);
+                    instGo.GetComponent<TailCell>().Init(tailsAtlas.GetSprite(tailNames[j]), tailNames[j], _animalInfo.tail == tailNames[j]);
                     _cachedAddressables.Add(instGo);
                 }
             }
@@ -112,6 +133,7 @@ namespace UI.Windows.TailChooseWindow
                 Addressables.Release(cachedAddressable);
             }
             _cachedAddressables.Clear();
+            StopCoroutine(_coroutine);
             
             TalkEvent -= _animalController.StartTalking;
         }
@@ -120,19 +142,28 @@ namespace UI.Windows.TailChooseWindow
         private void OnEnable()
         {
             Signal.Subscribe<StartSceneSignal>(OnStartSceneSignal);
+            Signal.Subscribe<TailChosenSignal>(OnTailChosenSignal);
         }
         private void OnDisable()
         {
             Signal.Unsubscribe<StartSceneSignal>(OnStartSceneSignal);
+            Signal.Unsubscribe<TailChosenSignal>(OnTailChosenSignal);
         }
+        
     }
+}
 
 
-    [Serializable]
-    public class TailPanelInfo
-    {
-        public Transform content;
-        public int maxTailCount;
-    }
-    
+[Serializable]
+public class TailPanelInfo
+{
+    public Transform content;
+    public int maxTailCount;
+}
+
+
+[Serializable]
+public class LongAwaitActionSignal : Signal
+{
+    public int inactivityTime;
 }
