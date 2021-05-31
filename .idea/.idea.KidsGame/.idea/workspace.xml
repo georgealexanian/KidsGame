@@ -23,28 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de11fa25-8ca2-4e39-aa67-e9c112da4023" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/HandPointer.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/HandPointer.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/ForefingerHand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/ForefingerHand.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/HandPointer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/HandPointer.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KidsGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AddressableAssetSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/MainBundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/MainBundle.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/GameBackIcons.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Data/UIArt/Game/Background/GameBackIcons.spriteatlas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LoadingScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LoadingScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalController/AnimalController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalController/AnimalController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Game/GameSceneManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Game/GameSceneManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailCell.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailCell.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailChooseWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailChooseWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/TailCell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/TailCell.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,50 +52,15 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.16.19/Editor/Build/AddressableAssetSettingsLocator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameEntry.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/HandPointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.16.19/Editor/Build/AddressableAssetSettingsLocator.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/AnimalChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/AnimalChoose/AnimalChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowBack.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/UIWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/GameUIWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/Extensions/TypeExtensions.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/MenuSceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/SceneLoader.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/BubbleButton.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameEntry.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuScene/SceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MainSceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/SceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/MenuSceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Data/Prefabs/Animals/UI/Windows/TailChooseWindow/TailChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/AnimalChoose/AnimalCell.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/Animal/AnimalController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/ManagersHolder.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/Audio/AudioManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Data/Configs/AnimalsConfig.json" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalConfig.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChooseWindow/TailCell.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameSceneManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Game/AnimalChoose/AnimalController/AnimalController.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/UI/WindowSystem/WindowsManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/TailChooseWindow.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/TailCell.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/HandPointer.cs" />
-    </changedPaths>
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Windows/TailChoose/TailCell.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1t9xlUlKY8KFab8tEV9mvw8uG7z" />
   <component name="ProjectLevelVcsManager">
@@ -149,16 +96,16 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <list />
+        <set />
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="11512">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="11512" />
+      <option name="pid" />
       <option name="selectedOptions">
-        <list />
+        <set />
       </option>
       <method v="2" />
     </configuration>
@@ -173,6 +120,7 @@
       <updated>1622195257380</updated>
       <workItem from="1622195260311" duration="3041000" />
       <workItem from="1622227541869" duration="38494000" />
+      <workItem from="1622445878767" duration="136000" />
     </task>
     <servers />
   </component>
@@ -196,5 +144,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1622445885762">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1622445885762" />
   </component>
 </project>

@@ -662,7 +662,7 @@
       <e p="spine-unity.csproj" t="IncludeRecursive" />
       <e p="Temp/Bin" t="ExcludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_KidsGame.-189869260.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_KidsGame.-1554202943.00" t="ExcludeRecursive" />
   </component>
 </project>

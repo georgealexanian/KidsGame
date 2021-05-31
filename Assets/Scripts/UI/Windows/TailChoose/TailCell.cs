@@ -30,7 +30,10 @@ namespace UI.Windows.TailChoose
 
         private void OnChosenCorrectAnswerSignal(ChosenCorrectAnswerSignal signal)
         {
-            DOTween.Kill(transform);
+            if (signal.isCorrect)
+            {
+                _animSequence?.Kill();
+            }
             
             if (signal.tailName == _tailName && !signal.isCorrect)
             {
